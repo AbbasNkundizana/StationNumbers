@@ -1,0 +1,61 @@
+Location Name,Latitude,Longitude,Dysfunctional,Parameter,Number of Basins,Order of Drainage,Parameter ID/GW,S/N,Station ID,Identifier ,Basin
+Bugoloobi,0.32129,32.60496,,GW_,8,1,4,1,814001,GW_814001,Lake Victoria
+Busia,0.46,34.09,*,GW_,8,1,4,2,814002,GW_814002,Lake Victoria
+Busia at Majanji BMU landing site,0.261284,33.987308,,GW_,8,1,4,3,814003,GW_814003,Lake Victoria
+Entebbe,0.05102,32.47208,,GW_,8,1,4,4,814004,GW_814004,Lake Victoria
+Isingiro,-0.813,30.812,,GW_,8,1,4,5,814005,GW_814005,Lake Victoria
+Jinja at Jinja peer,0.415332,33.20697,,GW_,8,1,4,6,814006,GW_814006,Lake Victoria
+Kabale (Kamwezi Health Center IV),-1.21895,30.21563,,GW_,8,1,4,7,814007,GW_814007,Lake Victoria
+Kasensero,-0.91307,31.76255,*,GW_,8,1,4,8,814008,GW_814008,Lake Victoria
+Katosi at Winners Junior & Secondary school,0.155224,32.801806,,GW_,8,1,4,9,814009,GW_814009,Lake Victoria
+Kiyindi at Makonge Health Centre IV,0.2715,33.150458,,GW_,8,1,4,10,814010,GW_814010,Lake Victoria
+Lyantonde,0.2241,31.2168,*,GW_,8,1,4,11,814011,GW_814011,Lake Victoria
+Mbarara,-0.61675,30.65676,*,GW_,8,1,4,12,814012,GW_814012,Lake Victoria
+Mubende,0.5484,31.425,,GW_,8,1,4,13,814013,GW_814013,Lake Victoria
+Nkokonjeru,0.24,32.91,,GW_,8,1,4,14,814014,GW_814014,Lake Victoria
+Nkozi,0.001,32.029,,GW_,8,1,4,15,814015,GW_814015,Lake Victoria
+Ntungamo,-0.98998,30.192,,GW_,8,1,4,16,814016,GW_814016,Lake Victoria
+Rakai,-0.253249,31.852409,,GW_,8,1,4,17,814017,GW_814017,Lake Victoria
+Rwonyo,-0.629,30.965,,GW_,8,1,4,18,814018,GW_814018,Lake Victoria
+Ssembabule,-0.093,31.296,,GW_,8,1,4,19,814019,GW_814019,Lake Victoria
+Ssese Farm Institute,-0.321,32.296,,GW_,8,1,4,20,814020,GW_814020,Lake Victoria
+Bugondo,1.63,33.273,,GW_,8,2,4,1,824001,GW_824001,Lake Kyoga
+Iganga (Namungalwe),0.72063,33.49429,,GW_,8,2,4,2,824002,GW_824002,Lake Kyoga
+Iki-Iki- Budaka (Iki-Iki Town),1.10293,34.00466,,GW_,8,2,4,3,824003,GW_824003,Lake Kyoga
+Jinja,0.4479,33.2026,,GW_,8,2,4,4,824004,GW_824004,Lake Kyoga
+Kaberamaido (District HQ),1.77453,33.16303,,GW_,8,2,4,5,824005,GW_824005,Lake Kyoga
+Kamuli Town,0.95,33.08,*,GW_,8,2,4,6,824006,GW_824006,Lake Kyoga
+Kangole,2.433,34.484,,GW_,8,2,4,7,824007,GW_824007,Lake Kyoga
+Kapchorwa (Kaserem S/C),1.32863,34.33604,,GW_,8,2,4,8,824008,GW_824008,Lake Kyoga
+Katakwi (District Water Office),1.92224,33.96314,,GW_,8,2,4,9,824009,GW_824009,Lake Kyoga
+Kotido (Kabong Hospital),3.01884,34.11531,,GW_,8,2,4,10,824010,GW_824010,Lake Kyoga
+Moroto Prison,2.5345,34.666,,GW_,8,2,4,11,824011,GW_824011,Lake Kyoga
+Nakasongola,1.314,32.464,,GW_,8,2,4,12,824012,GW_824012,Lake Kyoga
+Pallisa,1.185,33.712,,GW_,8,2,4,13,824013,GW_824013,Lake Kyoga
+Serere,1.542,33.474,,GW_,8,2,4,14,824014,GW_824014,Lake Kyoga
+Soroti,1.747,33.615,,GW_,8,2,4,15,824015,GW_824015,Lake Kyoga
+Apac,1.998,32.712,,GW_,8,3,4,1,834001,GW_834001,Kyoga Nile
+Bombo-Lukole,0.581139,32.533339,,GW_,8,3,4,2,834002,GW_834002,Kyoga Nile
+Kiboga,0.90935,31.77844,,GW_,8,3,4,3,834003,GW_834003,Kyoga Nile
+Masindi-Kimengo,1.56932,31.95814,,GW_,8,3,4,4,834004,GW_834004,Kyoga Nile
+Wobulenzi,0.73051,32.52917,,GW_,8,3,4,5,834005,GW_834005,Kyoga Nile
+"Galilaya P/S, Kamwenge",0.12083,30.4886,,GW_,8,4,4,1,844001,GW_844001,Lake Edward
+Ibanda (District HQ),-0.13165,30.49082,,GW_,8,4,4,2,844002,GW_844002,Lake Edward
+"Kabambiro at Kabambiro SS, Kamwenge",0.164025,30.55517,,GW_,8,4,4,3,844003,GW_844003,Lake Edward
+Kasese (Hamukungu Health Center),0.01716,30.07852,,GW_,8,4,4,4,844004,GW_844004,Lake Edward
+Rukungiri 1,-0.78635,29.93207,,GW_,8,4,4,5,844005,GW_844005,Lake Edward
+Hoima (NWSC Works),1.43223,31.36211,,GW_,8,5,4,1,854001,GW_854001,Lake Albert
+Hoima Hospital,1.43,31.34,*,GW_,8,5,4,2,854002,GW_854002,Lake Albert
+Kyegegwa,0.48349,31.05332,,GW_,8,5,4,3,854003,GW_854003,Lake Albert
+Rwebisengo,1.04831,30.26604,,GW_,8,5,4,4,854004,GW_854004,Lake Albert
+Abim (Katabok Municipality),2.59562,33.72211,,GW_,8,6,4,1,864001,GW_864001,River Aswa
+Abim (Morelum),2.59188,33.66105,,GW_,8,6,4,2,864002,GW_864002,River Aswa
+Alebtong,2.26471,33.23341,,GW_,8,6,4,3,864003,GW_864003,River Aswa
+Kitgum (Kitgum Town),3.29833,32.88292,,GW_,8,6,4,4,864004,GW_864004,River Aswa
+Otuke,2.40595,33.23341,,GW_,8,6,4,5,864005,GW_864005,River Aswa
+Pader (Pader Municipality),2.86961,33.08723,,GW_,8,6,4,6,864006,GW_864006,River Aswa
+Amuru (Atiak),3.26077,32.12032,,GW_,8,7,4,1,874001,GW_874001,Albert Nile
+Gulu (Gulu Town Water office),2.78307,32.29388,,GW_,8,7,4,2,874002,GW_874002,Albert Nile
+Laropi,3.56279,31.81129,,GW_,8,7,4,3,874003,GW_874003,Albert Nile
+Maracha,3.2821,30.95232,,GW_,8,7,4,4,874004,GW_874004,Albert Nile
+Nebbi (Packwatch Town at NWSC),2.45627,31.48193,,GW_,8,7,4,5,874005,GW_874005,Albert Nile
